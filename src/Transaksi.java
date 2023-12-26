@@ -28,9 +28,9 @@ public class Transaksi {
                     System.out.print("\n====== MENU ======\n"
                             + "1. Buat Table\n"
                             + "2. Tambah Transaksi\n"
-                            + "3. Lihat Data Barang\n"
-                            + "4. Hapus Data Barang\n"
-                            + "5. Update Data Barang\n"
+                            + "3. Lihat Data Transaksi\n"
+                            + "4. Hapus Data Transaksi\n"
+                            + "5. Update Data Transaksi\n"
                             + "0. Exit\n"
                             + "Pilih[1/2/3/4/5/0] : ");
 
